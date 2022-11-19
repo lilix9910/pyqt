@@ -1,0 +1,1345 @@
+1667980399516	geckodriver	INFO	Listening on 127.0.0.1:63838
+1667980401592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "63839" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileKQaX3i"
+1667980402549	Marionette	INFO	Marionette enabled
+1667980402555	Marionette	INFO	Listening on port 63844
+WebDriver BiDi listening on ws://localhost:63839
+1667980403444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileKQaX3i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63839/devtools/browser/928209ad-4f2b-4c03-948f-3b09e93fb31f
+1667980430735	Marionette	INFO	Stopped listening on port 63844
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667980907975	geckodriver	INFO	Listening on 127.0.0.1:49797
+1667980910010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "49798" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofile6SRkqM"
+1667980910488	Marionette	INFO	Marionette enabled
+1667980910494	Marionette	INFO	Listening on port 49805
+WebDriver BiDi listening on ws://localhost:49798
+1667980911132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofile6SRkqM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49798/devtools/browser/880139e0-ceea-46fa-a3c5-bd18619b1761
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1667980956207	Marionette	INFO	Stopped listening on port 49805
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3308, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667981094966	geckodriver	INFO	Listening on 127.0.0.1:54191
+1667981096995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "54192" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileLnuzpH"
+1667981097473	Marionette	INFO	Marionette enabled
+1667981097479	Marionette	INFO	Listening on port 54197
+WebDriver BiDi listening on ws://localhost:54192
+1667981098012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileLnuzpH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54192/devtools/browser/671e9a18-cce5-4468-98ea-d59770fca5a2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1667981157132	Marionette	INFO	Stopped listening on port 54197
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667981169476	geckodriver	INFO	Listening on 127.0.0.1:54434
+1667981171493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "54435" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileQ5GnTg"
+1667981171976	Marionette	INFO	Marionette enabled
+1667981171982	Marionette	INFO	Listening on port 54440
+WebDriver BiDi listening on ws://localhost:54435
+1667981172556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileQ5GnTg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54435/devtools/browser/6f9c676a-5f3a-407f-8f67-52a2e6736f00
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1667981197502	Marionette	INFO	Stopped listening on port 54440
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667981328819	geckodriver	INFO	Listening on 127.0.0.1:55531
+1667981330834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "55532" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileSKhzBE"
+1667981331281	Marionette	INFO	Marionette enabled
+1667981331287	Marionette	INFO	Listening on port 55537
+WebDriver BiDi listening on ws://localhost:55532
+1667981331696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileSKhzBE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55532/devtools/browser/a494ea7e-87d3-4d0f-90b7-5fb129f3bada
+1667981346686	Marionette	INFO	Stopped listening on port 55537
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667981447564	geckodriver	INFO	Listening on 127.0.0.1:55698
+1667981449593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "55699" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileNSLPMB"
+1667981450050	Marionette	INFO	Marionette enabled
+1667981450056	Marionette	INFO	Listening on port 55706
+WebDriver BiDi listening on ws://localhost:55699
+1667981450723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileNSLPMB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55699/devtools/browser/49ea4e9e-f95b-49fb-ac4f-ff97d286d801
+1667981462842	Marionette	INFO	Stopped listening on port 55706
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667981517130	geckodriver	INFO	Listening on 127.0.0.1:55823
+1667981519168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "55824" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileOGgH8a"
+1667981519642	Marionette	INFO	Marionette enabled
+1667981519648	Marionette	INFO	Listening on port 55832
+WebDriver BiDi listening on ws://localhost:55824
+1667981520190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileOGgH8a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55824/devtools/browser/f24e2750-f48c-4ab6-94ff-c2b7eba20a0e
+1667981554455	Marionette	INFO	Stopped listening on port 55832
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667981718034	geckodriver	INFO	Listening on 127.0.0.1:56154
+1667981720067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "56155" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileuTsiGd"
+1667981720529	Marionette	INFO	Marionette enabled
+1667981720536	Marionette	INFO	Listening on port 56163
+WebDriver BiDi listening on ws://localhost:56155
+1667981721098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileuTsiGd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56155/devtools/browser/fd03da7c-e4ce-4658-a670-57c3d48abe37
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://nsop.10010.com/om-portal-new/assets/index.02d6e6e2.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1667981795970	Marionette	INFO	Stopped listening on port 56163
+1667982148358	geckodriver	INFO	Listening on 127.0.0.1:56795
+1667982150383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "56796" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileNdmdce"
+1667982150851	Marionette	INFO	Marionette enabled
+1667982150857	Marionette	INFO	Listening on port 56805
+WebDriver BiDi listening on ws://localhost:56796
+1667982151385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileNdmdce\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56796/devtools/browser/a0016904-d9bc-46e4-a039-8acdc3f1e0bb
+1667982176410	Marionette	INFO	Stopped listening on port 56805
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667982782299	geckodriver	INFO	Listening on 127.0.0.1:61007
+1667982784333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "61008" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileHcAcXa"
+*** You are running in headless mode.
+1667982784819	Marionette	INFO	Marionette enabled
+1667982784824	Marionette	INFO	Listening on port 61013
+WebDriver BiDi listening on ws://localhost:61008
+1667982785331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileHcAcXa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61008/devtools/browser/bee08860-1972-49cc-b1a5-929a1953ce13
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://nsop.10010.com/om-portal-new/assets/index.02d6e6e2.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1667982812231	Marionette	INFO	Stopped listening on port 61013
+1667983222696	geckodriver	INFO	Listening on 127.0.0.1:49335
+1667983224745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "49336" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilehuSTjY"
+*** You are running in headless mode.
+1667983225202	Marionette	INFO	Marionette enabled
+1667983225207	Marionette	INFO	Listening on port 49347
+WebDriver BiDi listening on ws://localhost:49336
+1667983225859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilehuSTjY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49336/devtools/browser/61124026-ce24-4796-8758-9d92078856bc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1667984341672	geckodriver	INFO	Listening on 127.0.0.1:65181
+1667984343705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "65182" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilegJfy2s"
+*** You are running in headless mode.
+1667984344165	Marionette	INFO	Marionette enabled
+1667984344170	Marionette	INFO	Listening on port 65187
+WebDriver BiDi listening on ws://localhost:65182
+1667984344777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilegJfy2s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65182/devtools/browser/451b9672-b2ab-49aa-a8da-60a25bf60346
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://nsop.10010.com/om-portal-new/assets/index.02d6e6e2.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1667984372126	Marionette	INFO	Stopped listening on port 65187
+1667984441088	geckodriver	INFO	Listening on 127.0.0.1:65409
+1667984443109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "65410" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileeYlWkH"
+*** You are running in headless mode.
+1667984443563	Marionette	INFO	Marionette enabled
+1667984443568	Marionette	INFO	Listening on port 65415
+WebDriver BiDi listening on ws://localhost:65410
+1667984444007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileeYlWkH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65410/devtools/browser/b6012a09-c754-485e-94ed-6bd93801aab5
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://nsop.10010.com/om-portal-new/assets/index.02d6e6e2.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1667984546037	Marionette	INFO	Stopped listening on port 65415
+1668063357856	geckodriver	INFO	Listening on 127.0.0.1:62216
+1668063359867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "62217" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileg2XPJe"
+*** You are running in headless mode.
+1668063360907	Marionette	INFO	Marionette enabled
+1668063360914	Marionette	INFO	Listening on port 62222
+WebDriver BiDi listening on ws://localhost:62217
+1668063361404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileg2XPJe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62217/devtools/browser/7defeb45-efd7-42dc-80d8-bde87fd3a647
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://nsop.10010.com/om-portal-new/assets/index.02d6e6e2.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1668063432062	Marionette	INFO	Stopped listening on port 62222
+1668063866923	geckodriver	INFO	Listening on 127.0.0.1:61976
+1668063868935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "61977" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileTtiVtN"
+*** You are running in headless mode.
+1668063869436	Marionette	INFO	Marionette enabled
+1668063869441	Marionette	INFO	Listening on port 61985
+WebDriver BiDi listening on ws://localhost:61977
+1668063869940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileTtiVtN\\search.json.mozlz4", (void 0)))
+1668071463684	geckodriver	INFO	Listening on 127.0.0.1:65205
+1668071465710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "65206" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofile4EY0VI"
+*** You are running in headless mode.
+1668071466191	Marionette	INFO	Marionette enabled
+1668071466197	Marionette	INFO	Listening on port 65211
+WebDriver BiDi listening on ws://localhost:65206
+1668071466701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofile4EY0VI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65206/devtools/browser/e5939873-bf05-45d1-8134-4f9200ca4b14
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://nsop.10010.com/om-portal-new/assets/index.02d6e6e2.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1668071605778	Marionette	INFO	Stopped listening on port 65211
+1668074009391	geckodriver	INFO	Listening on 127.0.0.1:50662
+1668074011417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "50663" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileupA2Hu"
+*** You are running in headless mode.
+1668074011958	Marionette	INFO	Marionette enabled
+1668074011964	Marionette	INFO	Listening on port 50673
+WebDriver BiDi listening on ws://localhost:50663
+1668074013227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileupA2Hu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50663/devtools/browser/0ecb1c7c-c187-45d1-95be-6b332b10d817
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://nsop.10010.com/om-portal-new/assets/index.02d6e6e2.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1668074153133	Marionette	INFO	Stopped listening on port 50673
+1668077588936	geckodriver	INFO	Listening on 127.0.0.1:64866
+1668077590952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "64867" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileqaB8kd"
+*** You are running in headless mode.
+1668077591443	Marionette	INFO	Marionette enabled
+1668077591450	Marionette	INFO	Listening on port 64874
+WebDriver BiDi listening on ws://localhost:64867
+1668077591847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileqaB8kd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64867/devtools/browser/cc2ca6e7-ec89-44ba-8a25-b27836d58166
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://nsop.10010.com/om-portal-new/assets/index.02d6e6e2.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1668077696675	Marionette	INFO	Stopped listening on port 64874
+1668127025705	geckodriver	INFO	Listening on 127.0.0.1:61903
+1668127027746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "61904" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilei98LWO"
+*** You are running in headless mode.
+1668127028670	Marionette	INFO	Marionette enabled
+1668127028675	Marionette	INFO	Listening on port 61909
+WebDriver BiDi listening on ws://localhost:61904
+1668127029231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilei98LWO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61904/devtools/browser/3bb876be-9a0f-4170-bc28-73b148a168d2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://nsop.10010.com/om-portal-new/assets/index.b6c5e5be.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1668127059187	Marionette	INFO	Stopped listening on port 61909
+1668133000338	geckodriver	INFO	Listening on 127.0.0.1:59191
+1668133002377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "59192" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofile3sI4K1"
+1668133002855	Marionette	INFO	Marionette enabled
+1668133002861	Marionette	INFO	Listening on port 59197
+WebDriver BiDi listening on ws://localhost:59192
+1668133003261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofile3sI4K1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59192/devtools/browser/c04aa238-21d0-4a24-a5f8-3361ca4e6697
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133007030	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133008342	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133012634	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133012723	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668133014067	Marionette	INFO	Stopped listening on port 59197
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668133098566	geckodriver	INFO	Listening on 127.0.0.1:59289
+1668133100593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "59290" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileSV0FoY"
+1668133101065	Marionette	INFO	Marionette enabled
+1668133101071	Marionette	INFO	Listening on port 59298
+WebDriver BiDi listening on ws://localhost:59290
+1668133101454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileSV0FoY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59290/devtools/browser/50e01d12-d11d-4681-9ac5-bd5bf7f99a4f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133105036	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668133108186	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133108248	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133112304	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133112386	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668133112782	Marionette	INFO	Stopped listening on port 59298
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5912, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668133248705	geckodriver	INFO	Listening on 127.0.0.1:59431
+1668133250724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "59432" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileHaU2By"
+1668133251246	Marionette	INFO	Marionette enabled
+1668133251253	Marionette	INFO	Listening on port 59437
+WebDriver BiDi listening on ws://localhost:59432
+1668133252532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileHaU2By\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59432/devtools/browser/f2989a53-3755-4dc0-ab55-dd9fd5807b30
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133255318	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133256519	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133260675	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133260765	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668133262343	Marionette	INFO	Stopped listening on port 59437
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668133301321	geckodriver	INFO	Listening on 127.0.0.1:59523
+1668133303355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "59524" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileBSuhSg"
+1668133303826	Marionette	INFO	Marionette enabled
+1668133303832	Marionette	INFO	Listening on port 59532
+WebDriver BiDi listening on ws://localhost:59524
+1668133304303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileBSuhSg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59524/devtools/browser/73a2d14c-fe22-4018-9f31-96992bca6deb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133307903	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133309198	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133313352	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133313438	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133317147	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133317221	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668133318899	Marionette	INFO	Stopped listening on port 59532
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668133349634	geckodriver	INFO	Listening on 127.0.0.1:52208
+1668133351648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "52209" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileVPnV7o"
+1668133352176	Marionette	INFO	Marionette enabled
+1668133352183	Marionette	INFO	Listening on port 52217
+WebDriver BiDi listening on ws://localhost:52209
+1668133353396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileVPnV7o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52209/devtools/browser/2e0bd98a-73f2-4a02-bae3-d890ba41700a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133356027	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668133359374	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133359426	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133363547	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133363632	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133367376	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133367459	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133371166	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133371244	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133374947	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133375018	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133378735	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133378807	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133382510	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133382583	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668133383850	Marionette	INFO	Stopped listening on port 52217
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668133410966	geckodriver	INFO	Listening on 127.0.0.1:52333
+1668133412985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "52334" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilesZK2p2"
+1668133413489	Marionette	INFO	Marionette enabled
+1668133413496	Marionette	INFO	Listening on port 52339
+WebDriver BiDi listening on ws://localhost:52334
+1668133414759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilesZK2p2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52334/devtools/browser/d08cccf6-c2cf-4ade-bb25-046c6c3cd28d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133417728	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133419026	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133423145	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668133425209	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668133425281	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668133425856	Marionette	INFO	Stopped listening on port 52339
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1668135400046	geckodriver	INFO	Listening on 127.0.0.1:65433
+1668135402066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "65434" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileKCIZGC"
+1668135402508	Marionette	INFO	Marionette enabled
+1668135402514	Marionette	INFO	Listening on port 65439
+WebDriver BiDi listening on ws://localhost:65434
+1668135403022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileKCIZGC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65434/devtools/browser/c07f441d-1672-4795-b986-bb18d1cbac58
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668135406540	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668135407717	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668135411802	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668135411899	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668135412411	Marionette	INFO	Stopped listening on port 65439
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668136255316	geckodriver	INFO	Listening on 127.0.0.1:52664
+1668136257345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "52665" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileH8O14M"
+1668136257788	Marionette	INFO	Marionette enabled
+1668136257793	Marionette	INFO	Listening on port 52671
+WebDriver BiDi listening on ws://localhost:52665
+1668136258244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileH8O14M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52665/devtools/browser/35397ed9-9b8d-40c6-89dd-acf031d2b7bf
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136262815	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668136265405	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136265471	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136269887	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136269973	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136273613	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136273695	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136277329	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136277405	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136281067	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136281139	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136284787	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136284856	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136288469	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136288544	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+1668136291914	Marionette	INFO	Stopped listening on port 52671
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11080, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668136375084	geckodriver	INFO	Listening on 127.0.0.1:64704
+1668136377101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "64705" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofile5oezbf"
+1668136377562	Marionette	INFO	Marionette enabled
+1668136377568	Marionette	INFO	Listening on port 64710
+WebDriver BiDi listening on ws://localhost:64705
+1668136377982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofile5oezbf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64705/devtools/browser/0451fd72-d5ff-4ec6-b8fa-cd95baa3ae49
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136381794	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136382830	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136386876	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136386961	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136390664	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136390740	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+1668136394233	Marionette	INFO	Stopped listening on port 64710
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668136436918	geckodriver	INFO	Listening on 127.0.0.1:64790
+1668136438951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "64791" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofile130pgU"
+1668136439416	Marionette	INFO	Marionette enabled
+1668136439422	Marionette	INFO	Listening on port 64798
+WebDriver BiDi listening on ws://localhost:64791
+1668136439932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofile130pgU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64791/devtools/browser/f2bf75a0-98a3-4da8-b872-00c59309729d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136443719	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136444799	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136449515	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136449603	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+1668136450278	Marionette	INFO	Stopped listening on port 64798
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668136645359	geckodriver	INFO	Listening on 127.0.0.1:64978
+1668136647382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "64979" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofiley9lial"
+1668136647860	Marionette	INFO	Marionette enabled
+1668136647866	Marionette	INFO	Listening on port 64984
+WebDriver BiDi listening on ws://localhost:64979
+1668136648356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofiley9lial\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64979/devtools/browser/db2c41cc-fbc9-47d8-afdb-bdb11703540e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136652213	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668136655209	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136655281	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136659407	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668136659493	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+1668136662020	Marionette	INFO	Stopped listening on port 64984
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668137111063	geckodriver	INFO	Listening on 127.0.0.1:50078
+1668137113081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "50079" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileyqXWoj"
+1668137113517	Marionette	INFO	Marionette enabled
+1668137113523	Marionette	INFO	Listening on port 50089
+WebDriver BiDi listening on ws://localhost:50079
+1668137114022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileyqXWoj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50079/devtools/browser/0016f3b2-9817-478b-a0b1-e0d08356dcd4
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137117673	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668137120758	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137120810	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137124866	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137124948	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137128621	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137128694	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668137128842	Marionette	INFO	Stopped listening on port 50089
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1668137129056	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1668137158763	geckodriver	INFO	Listening on 127.0.0.1:50162
+1668137160795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "50163" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileVjTjQV"
+1668137161270	Marionette	INFO	Marionette enabled
+1668137161276	Marionette	INFO	Listening on port 50171
+WebDriver BiDi listening on ws://localhost:50163
+1668137161685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileVjTjQV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50163/devtools/browser/57e9b3a7-f820-4b52-b117-4d471ab05447
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137166176	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137166877	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137171102	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137171194	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137174895	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137174968	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+1668137177451	Marionette	INFO	Stopped listening on port 50171
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668137196931	geckodriver	INFO	Listening on 127.0.0.1:50244
+1668137198949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "50245" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofile7MN7Dl"
+1668137199404	Marionette	INFO	Marionette enabled
+1668137199410	Marionette	INFO	Listening on port 50250
+WebDriver BiDi listening on ws://localhost:50245
+1668137199908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofile7MN7Dl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50245/devtools/browser/ec399bc7-a0a0-463a-b036-04c91fc54683
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137203413	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137204909	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668137205910	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137209966	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137210295	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137214249	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137214325	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+1668137216859	Marionette	INFO	Stopped listening on port 50250
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668137287502	geckodriver	INFO	Listening on 127.0.0.1:61919
+1668137289518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "61920" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofile8lPfSr"
+1668137289999	Marionette	INFO	Marionette enabled
+1668137290005	Marionette	INFO	Listening on port 61925
+WebDriver BiDi listening on ws://localhost:61920
+1668137290499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofile8lPfSr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61920/devtools/browser/94f31de0-c4b3-45eb-87db-31c3dfd8c470
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137293838	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668137297106	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137297160	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668137318043	Marionette	INFO	Stopped listening on port 61925
+[Parent 7544, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 7544, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668137644376	geckodriver	INFO	Listening on 127.0.0.1:58662
+1668137646411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "58663" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilezsJ60E"
+1668137646872	Marionette	INFO	Marionette enabled
+1668137646878	Marionette	INFO	Listening on port 58673
+WebDriver BiDi listening on ws://localhost:58663
+1668137647329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilezsJ60E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58663/devtools/browser/9e0f7936-37fb-4135-bc56-19b9792b9ccc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137650808	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668137653909	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137653960	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137658190	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137658277	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137662011	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1668137662102	Marionette	INFO	Stopped listening on port 58673
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668137725461	geckodriver	INFO	Listening on 127.0.0.1:58757
+1668137727485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "58758" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileIAUfRE"
+1668137727961	Marionette	INFO	Marionette enabled
+1668137727967	Marionette	INFO	Listening on port 58763
+WebDriver BiDi listening on ws://localhost:58758
+1668137728390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileIAUfRE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58758/devtools/browser/915a3673-f038-40d5-925b-cb955867a744
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137731905	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137733116	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137737185	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137737281	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668137737806	Marionette	INFO	Stopped listening on port 58763
+[Parent 10476, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/iconsole.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+pc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1668137854961	geckodriver	INFO	Listening on 127.0.0.1:49962
+1668137856993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "49963" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Roaming\\MOBAXT~1\\slash\\tmp\\rust_mozprofileO4Sa7E"
+1668137857458	Marionette	INFO	Marionette enabled
+1668137857464	Marionette	INFO	Listening on port 49968
+WebDriver BiDi listening on ws://localhost:49963
+1668137857865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Roaming\\MOBAXT~1\\slash\\tmp\\rust_mozprofileO4Sa7E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49963/devtools/browser/8c4ce027-1a87-42a8-ac13-b0ed2b037770
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137861931	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668137864961	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137865035	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137876194	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668137876278	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668137877567	Marionette	INFO	Stopped listening on port 49968
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668139114772	geckodriver	INFO	Listening on 127.0.0.1:55684
+1668139116793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "55685" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilepkQgyO"
+*** You are running in headless mode.
+1668139117285	Marionette	INFO	Marionette enabled
+1668139117290	Marionette	INFO	Listening on port 55695
+WebDriver BiDi listening on ws://localhost:55685
+1668139117745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilepkQgyO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55685/devtools/browser/bcf5437a-069d-4276-a41d-d2a189d61187
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://nsop.10010.com/om-portal-new/assets/index.b6c5e5be.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1668139143898	Marionette	INFO	Stopped listening on port 55695
+1668146305498	geckodriver	INFO	Listening on 127.0.0.1:53602
+1668146307542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "53603" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileT5kdHO"
+1668146308847	Marionette	INFO	Marionette enabled
+1668146308862	Marionette	INFO	Listening on port 53608
+WebDriver BiDi listening on ws://localhost:53603
+1668146310057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileT5kdHO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53603/devtools/browser/80592554-ce74-4aa9-90cf-f5277176446f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668146319876	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668146321473	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668146330240	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668146330322	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668146330836	Marionette	INFO	Stopped listening on port 53608
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668146362349	geckodriver	INFO	Listening on 127.0.0.1:53723
+1668146364373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "53724" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilefkPPtf"
+1668146364890	Marionette	INFO	Marionette enabled
+1668146364896	Marionette	INFO	Listening on port 53729
+WebDriver BiDi listening on ws://localhost:53724
+1668146366152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilefkPPtf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53724/devtools/browser/693717b7-0f26-478f-848e-77bcdb103b14
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668146369096	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668146372151	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668146372454	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668146376876	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668146376962	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668146377594	Marionette	INFO	Stopped listening on port 53729
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1668146685249	geckodriver	INFO	Listening on 127.0.0.1:61979
+1668146687290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "61980" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileSNmWxp"
+*** You are running in headless mode.
+1668146687805	Marionette	INFO	Marionette enabled
+1668146687811	Marionette	INFO	Listening on port 61985
+WebDriver BiDi listening on ws://localhost:61980
+1668146689000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileSNmWxp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61980/devtools/browser/7c2e8660-c539-4647-a03d-3278f470c824
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://nsop.10010.com/om-portal-new/assets/index.b6c5e5be.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1668146714728	Marionette	INFO	Stopped listening on port 61985
+1668148689173	geckodriver	INFO	Listening on 127.0.0.1:60200
+1668148691200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "60201" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilerwvATD"
+1668148691651	Marionette	INFO	Marionette enabled
+1668148691657	Marionette	INFO	Listening on port 60206
+WebDriver BiDi listening on ws://localhost:60201
+1668148692120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilerwvATD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60201/devtools/browser/f53d291c-6cf6-4b28-aada-af5ca237f411
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148695665	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148696544	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148700701	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148700788	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668148703773	Marionette	INFO	Stopped listening on port 60206
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668148754844	geckodriver	INFO	Listening on 127.0.0.1:60278
+1668148756871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "60279" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofiletgUFbn"
+1668148757305	Marionette	INFO	Marionette enabled
+1668148757311	Marionette	INFO	Listening on port 60284
+WebDriver BiDi listening on ws://localhost:60279
+1668148757703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofiletgUFbn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60279/devtools/browser/dde6f79a-4965-45e0-97f5-e65ab56b657c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148761313	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668148764211	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148764266	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148768461	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148768540	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148772317	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148772395	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668148773687	Marionette	INFO	Stopped listening on port 60284
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11752, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668148878831	geckodriver	INFO	Listening on 127.0.0.1:60152
+1668148880862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "60153" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilesTBrvp"
+1668148881336	Marionette	INFO	Marionette enabled
+1668148881343	Marionette	INFO	Listening on port 60158
+WebDriver BiDi listening on ws://localhost:60153
+1668148881809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilesTBrvp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60153/devtools/browser/cd25584a-b7ff-45d7-b372-96a2837dc0f8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148885341	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668148888529	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148888594	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148894292	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148894380	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148899713	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148899786	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148905087	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668148905159	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668148908691	Marionette	INFO	Stopped listening on port 60158
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1668148908739	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+[Parent 2188, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668149058223	geckodriver	INFO	Listening on 127.0.0.1:52061
+1668149060250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "52062" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilejC2xJj"
+1668149060689	Marionette	INFO	Marionette enabled
+1668149060695	Marionette	INFO	Listening on port 52070
+WebDriver BiDi listening on ws://localhost:52062
+1668149061167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilejC2xJj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52062/devtools/browser/119d12bc-aa0d-4d7c-8277-4a6e0013a96c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668149064946	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668149065996	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668149071809	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668149071894	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668149075283	Marionette	INFO	Stopped listening on port 52070
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668149104214	geckodriver	INFO	Listening on 127.0.0.1:52142
+1668149106248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "52143" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileFTL3gT"
+1668149106702	Marionette	INFO	Marionette enabled
+1668149106708	Marionette	INFO	Listening on port 52148
+WebDriver BiDi listening on ws://localhost:52143
+1668149107207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileFTL3gT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52143/devtools/browser/0a844765-a660-4bc7-ac7a-21e27d405175
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668149110619	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668149111688	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668149117765	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+1668149117851	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://uac.sso.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://uac.sso.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://uac.sso.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://uac.sso.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149120068	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uac.sso.chinaunicom.cn:8081/plugins/js/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149123802	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149123879	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149129288	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149129363	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149130159	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149130237	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://uac.sso.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://uac.sso.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://uac.sso.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://uac.sso.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149132427	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uac.sso.chinaunicom.cn:8081/plugins/js/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149135726	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149135800	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149141172	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149141243	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149153667	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149153742	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149159092	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149159167	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149164489	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://133.96.12.18:10005"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1668149164562	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1668149165993	Marionette	INFO	Stopped listening on port 52148
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668155235736	geckodriver	INFO	Listening on 127.0.0.1:60678
+1668155237777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "60679" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileG1megA"
+*** You are running in headless mode.
+1668155238275	Marionette	INFO	Marionette enabled
+1668155238281	Marionette	INFO	Listening on port 60684
+WebDriver BiDi listening on ws://localhost:60679
+1668155238721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofileG1megA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60679/devtools/browser/c9a02771-4649-43d7-96bd-72f71bb8d94d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://nsop.10010.com/om-portal-new/assets/index.b6c5e5be.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1668155264805	Marionette	INFO	Stopped listening on port 60684
+!!! error running onStopped callback: TypeError: callback is not a function
+1668158995038	geckodriver	INFO	Listening on 127.0.0.1:58493
+1668158997110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "58494" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilefwiitf"
+*** You are running in headless mode.
+1668158999127	Marionette	INFO	Marionette enabled
+1668158999142	Marionette	INFO	Listening on port 58499
+WebDriver BiDi listening on ws://localhost:58494
+1668158999977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofilefwiitf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58494/devtools/browser/23bdf343-6101-4e21-836a-256a4c54badb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://nsop.10010.com/om-portal-new/assets/index.b6c5e5be.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1668159032246	Marionette	INFO	Stopped listening on port 58499
+!!! error running onStopped callback: TypeError: callback is not a function
+1668593764773	geckodriver	INFO	Listening on 127.0.0.1:64681
+1668593766790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--incognito" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "--allow-insecure-localhost" "--remote-debugging-port" "64682" "-no-remote" "-profile" "C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofiled6sjqt"
+*** You are running in headless mode.
+1668593767684	Marionette	INFO	Marionette enabled
+1668593767689	Marionette	INFO	Listening on port 64687
+WebDriver BiDi listening on ws://localhost:64682
+1668593768237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilix\\AppData\\Local\\Temp\\rust_mozprofiled6sjqt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64682/devtools/browser/a44156bd-9d19-4508-a918-3a49494a952d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cas.newbuy.chinaunicom.cn"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://nsop.10010.com/om-portal-new/assets/index.b6c5e5be.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1668593798544	Marionette	INFO	Stopped listening on port 64687
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 7148, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
