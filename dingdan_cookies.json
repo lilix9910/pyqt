@@ -1,16 +1,1 @@
-[
-    {
-        "name": "JSESSION",
-        "value": "tXBlf_oioTC_-QGQKILZ_WKF04q0qWIwGhwqenL3kQZGcBzY2maX!-1208489005",
-        "domain": "133.96.12.18",
-        "hostOnly": true,
-        "path": "/",
-        "secure": false,
-        "httpOnly": true,
-        "sameSite": "no_restriction",
-        "session": true,
-        "firstPartyDomain": "",
-        "partitionKey": null,
-        "storeId": null
-    }
-]
+[{"name": "UC_SSO_SESSIONID_WEB", "value": "4272D9E6DE584C399AED021D8D81CF4B", "path": "/", "domain": ".chinaunicom.cn", "secure": false, "httpOnly": false, "sameSite": "None"}]

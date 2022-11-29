@@ -178,10 +178,7 @@ class Nsop:
                 cookies.extend(self.web.driver.get_cookies())
                 print(self.ck_2)
                 if self.ck_2 is not None:
-                    print(1)
                     cookies.append(self.ck_2)
-                else:
-                    print(2)
                 break
 
             except Exception as err:
@@ -197,8 +194,10 @@ class Nsop:
         # 读取Cookies
         self.load_ck_token()
         self.web.quit()
-
+        with open("./captcha.txt", mode="a+", encoding="utf-8") as f:
+            f.write(self.captcha)
         print("登录成功!")
+
         return True
 
     # 获取token
@@ -210,7 +209,7 @@ class Nsop:
             # print("token:", self.token)
             if self.token is not None:
                 # 保存token
-                with open("./token.tk", "w") as f:
+                with open("D:/Onedrive/fcbss/token.tk", "w") as f:
                     f.write(self.token)
                 return True
         except Exception:
@@ -219,7 +218,7 @@ class Nsop:
 
     # 保存cookie
     def save_cookie(self, cookie):
-        with open("./nsop_cookies.json", "w") as f:
+        with open("D:/Onedrive/fcbss/nsop_cookies.json", "w") as f:
             f.write(cookie)
 
     # 读取cookie和token
@@ -2328,8 +2327,6 @@ class Nsop:
                 + "&inModeCode="
         )
         resp = requests.get(url=url, headers=self.headers, cookies=self.dict_cookie)
-        with open("./111.txt", mode="w") as f:
-            f.write(resp.text)
 
         try:
             developStaffName = re.search(r"发展人名称:(.*?)</span>", resp.text, re.S).group(
@@ -2399,7 +2396,7 @@ class Nsop:
 
         try:
             inner_custName = re.search(
-                '客户姓名:.*?<input type="text" name="custName" class="no-border" value="(.*?)" readonly>',
+                '客户姓名:.*?<input type="text" name="custName" class="no-border" value="(.*?)"',
                 resp.text,
                 re.S,
             ).group(1)
@@ -2407,8 +2404,35 @@ class Nsop:
             inner_custName = ""
 
         try:
+            inner_ContactTel = re.search(
+                '联系电话:.*?<input type="text" id="mainContactTel".*?value="(.*?)"',
+                resp.text,
+                re.S,
+            ).group(1)
+        except:
+            inner_ContactTel = ""
+
+        try:
+            inner_mainPsptId = re.search(
+                '证件号码:.*?<input.*?id="mainPsptId".*?value="(.*?)"',
+                resp.text,
+                re.S,
+            ).group(1)
+        except:
+            inner_mainPsptId = ""
+
+        try:
+            inner_preAddressInfo = re.search(
+                '装机地址:.*?<span>(.*?)</span>',
+                resp.text,
+                re.S,
+            ).group(1)
+        except:
+            inner_preAddressInfo = ""
+
+        try:
             inner_isiptv = re.search(
-                '是否订购IPTV:.*?<input type="text" name="name" class="no-border" value="(.*?)" readonly>',
+                '是否订购IPTV:.*?<input type="text" name="name" class="no-border" value="(.*?)"',
                 resp.text,
                 re.S,
             ).group(1)
@@ -2451,20 +2475,25 @@ class Nsop:
         except Exception as error:
             except_err(error)
 
-        return (
-            developStaffName,
-            developStaffPhone,
-            developDepartName,
-            PowerStaffName,
-            PowerStaffPhone,
-            order_fee,
-            inner_remark,
-            inner_custName,
-            inner_ad_no,
-            inner_ad_device,
-            inner_isiptv,
-            iptv_device,
-        )
+        ret_dict = {
+                "developStaffName": developStaffName,
+                "developStaffPhone": developStaffPhone,
+                "developDepartName": developDepartName,
+                "PowerStaffName": PowerStaffName,
+                "PowerStaffPhone": PowerStaffPhone,
+                "order_fee": order_fee,
+                "inner_remark": inner_remark,
+                "inner_custName": inner_custName,
+                "inner_ad_no": inner_ad_no,
+                "inner_ad_device": inner_ad_device,
+                "inner_isiptv": inner_isiptv,
+                "iptv_device": iptv_device,
+                "inner_ContactTel": inner_ContactTel,
+                "inner_mainPsptId": inner_mainPsptId,
+                "inner_preAddressInfo": inner_preAddressInfo,
+            }
+
+        return ret_dict
 
     # 二级
     def second_query(self):
@@ -2564,6 +2593,242 @@ class Nsop:
             cookies=self.dict_cookie,
         )
         print(resp.json())
+
+    def query_new_firstpage(self, orderNo):
+        url = "https://ibos.newbuy.chinaunicom.cn/ibos-eos/order-service/OrderDataQuery/query/new"
+        data = {
+            "businessType": "",
+            "cancelTag": [],
+            "cityCode": [
+                "186"
+            ],
+            "custIp": "",
+            "custName": "",
+            "dateType": "",
+            "dealStaffId": "",
+            "deliverMaxTime": "",
+            "deliverMinTime": "",
+            "dispatchAutoTag": "4",
+            "distributeOrderFlag": "2",
+            "districtCode": "",
+            "extOrderId": "",
+            "getCount": "1",
+            "goodsName": "",
+            "iccid": "",
+            "imei": "",
+            "inModeCode": [],
+            "isAutoIom": "3",
+            "isClaim": "2",
+            "isReverse": "ALL",
+            "isSuspend": "",
+            "lgtsOrder": "",
+            "mashanggouBackState": [],
+            "mashanggouTag": [],
+            "maxTime": "2022-09-30",
+            "minTime": "2022-09-01",
+            "mobilePhone": "",
+            "netTypeCode": [],
+            "orderKind": "",
+            "orderNo": orderNo,
+            "orderSourceTag": [
+                "01",
+                "0",
+                "1",
+                "2",
+                "30",
+                "3",
+                "4"
+            ],
+            "orderStaffId": "",
+            "orderStaffRole": "",
+            "orderState": [],
+            "pageNum": 1,
+            "pageSize": 5,
+            "payId": "",
+            "payState": [],
+            "payType": [],
+            "phoneNumber": "",
+            "postTypeList": [],
+            "provinceCode": "18",
+            "psptNo": "",
+            "sceneType": [],
+            "timeSort": "desc",
+            "tradeTypeCode": [
+                "10000",
+                "1029",
+                "110",
+                "1104",
+                "12",
+                "12000",
+                "126",
+                "127",
+                "136",
+                "190",
+                "192",
+                "1920",
+                "196",
+                "240",
+                "269",
+                "270",
+                "272",
+                "273",
+                "274",
+                "276",
+                "340",
+                "381",
+                "503",
+                "5034",
+                "505",
+                "592",
+                "594",
+                "64",
+                "65",
+                "69",
+                "690",
+                "7302",
+                "9003",
+                "790",
+                "2152",
+                "210028",
+                "79",
+                "2104",
+                "2106",
+                "2001",
+                "2201",
+                "1000",
+                "1001",
+                "1002",
+                "2000",
+                "2002",
+                "2003",
+                "2004",
+                "2101",
+                "2102",
+                "2103",
+                "2105",
+                "2107",
+                "2108",
+                "2109",
+                "2110",
+                "2114",
+                "2115",
+                "2120",
+                "2125",
+                "2130",
+                "2131",
+                "2202",
+                "2203",
+                "2230",
+                "2231",
+                "2232",
+                "2233",
+                "2500",
+                "4000",
+                "4001",
+                "4002",
+                "4003",
+                "4004",
+                "4005",
+                "4006",
+                "4007",
+                "4008",
+                "4009",
+                "4016",
+                "4017",
+                "4018",
+                "5001",
+                "5002",
+                "5003",
+                "5004",
+                "5005",
+                "5006",
+                "5007",
+                "5008",
+                "5009",
+                "5010",
+                "5011",
+                "5012",
+                "5013",
+                "5014",
+                "5015",
+                "5016",
+                "5017",
+                "5018",
+                "5019",
+                "5020",
+                "5021",
+                "5022",
+                "5023",
+                "9001",
+                "9002",
+                "5026",
+                "11000",
+                "120",
+                "141",
+                "31",
+                "10",
+                "11001",
+                "11999",
+                "3410"
+            ],
+            "untreatedTime": "2022-11-20",
+            "userTag": []
+        }
+        resp = requests.post(url=url, json=data, headers=self.headers, cookies=self.dict_cookie)
+        # print(resp.json())
+        try:
+            if len(resp.json()['data']['orderList']) == 1:
+                return resp.json()['data']['orderList'][0]['list']['orderState']
+            else:
+                print("多条返回")
+                return "多条返回"
+        except:
+            print("执行出错")
+            return "执行出错"
+
+    def backToDispatch(self, orderId, reason):
+        """
+        订单调回
+        """
+        url = "https://ibos.newbuy.chinaunicom.cn/ibos-eos/codebuy-dispatch/orderDispatched/ryy/backToDispatch"
+        data = {
+            "cityCodePost": "130400",
+            "districtCodePost": "",
+            "dn": "null",
+            "logDn": "null",
+            "orderCityCode": "186",
+            "orderId": orderId,
+            "orderProvinceCode": "18",
+            "phoneNumber": "",
+            "provinceCodePost": "130000",
+            "reason": reason,
+            "remark": "null",
+            "rsyncTag": 2
+        }
+        resp = requests.post(url=url, json=data, headers=self.headers, cookies=self.dict_cookie)
+        try:
+            res = resp.json()['code']
+            print("backToDispatch", res)
+            return res
+        except:
+            return "error"
+
+    def order_cancel_apply(self, orderId, remark):
+        """
+        申请退单
+        """
+        url = "https://ibos.newbuy.chinaunicom.cn/ibos-eos/order-cancel/v2/api/order/cancel/apply"
+        data = {
+            "backOrderSource": "RX",
+            "exReasonCode": "0502",
+            "exType": "02",
+            "orderId": orderId,
+            "remark": remark,
+            "specRemark": "其他原因",
+            "type": "1"
+        }
+        resp = requests.post(url=url, json=data, headers=self.headers, cookies=self.dict_cookie)
+        print("order_cancel_apply", resp.json())
 
 
 if __name__ == "__main__":

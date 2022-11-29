@@ -48,12 +48,9 @@ class dingdan:
             web.click((By.XPATH, "//div[text()='河北']"))
             web.send_key((By.CSS_SELECTOR, "#login"), USERNAME)
             web.send_key((By.CSS_SELECTOR, "#password"), PASSWORD)
-            input("登录后回车继续")
-            cookies = web.driver.get_cookies()
-            jsonCookies = json.dumps(cookies)
-            self.save_cookie(jsonCookies)
-            web.quit()
-            self.load_cookie()
+            print("登录后回车继续,25s")
+            time.sleep(25)
+
 
         else:
             # 订单系统获取Cookies-划块验证码
@@ -125,14 +122,15 @@ class dingdan:
             # web.open("http://133.96.12.18:10005/mgWeb/")
             # input("To Be Continue...")
 
-            cookies = web.driver.get_cookies()
-            jsonCookies = json.dumps(cookies)
-            self.save_cookie(jsonCookies)
-            web.quit()
-            self.load_cookie()
+        cookies = web.driver.get_cookies()
+        jsonCookies = json.dumps(cookies)
+        self.save_cookie(jsonCookies)
+        web.quit()
+        self.load_cookie()
+        return "登陆成功"
 
     def save_cookie(self, cookie):
-        with open('./dingdan_cookies.json', 'w') as f:
+        with open('d:/Onedrive/fcbss/dingdan_cookies.json', 'w') as f:
             f.write(cookie)
 
     def load_cookie(self):
@@ -282,7 +280,7 @@ class dingdan:
                 self.login()
             else:
                 break
-        
+
         # 添加表格print
         try:
             listA = []
@@ -304,7 +302,7 @@ class dingdan:
             p = pd.DataFrame()
         
         self.table = p
-        return self.table
+        # return self.table
 
         try:
             self.dict_cust['cust_name'] = re.search(r"<th>客户名称：</th>(.*?)\(",
@@ -363,10 +361,11 @@ class dingdan:
             print("订单基本信息失败!")
 
         # 只有在cbss做的订单才需要下面的业务解析
-        if self.dict_order['业务类型'] in ALL_ALLOWS_LIST:
+        try:
+            if self.dict_order['业务类型'] in ALL_ALLOWS_LIST:
             # 需要挂起的业务类型
 
-            try:
+
                 # print(self.dict_order['内部订单编号'])
                 # 查询是否已经有cbss订单,有的话直接绑定,订单必须在自己可以做的业务里
                 if self.dict_order['业务类型'] in ALLOWS_LIST:
@@ -401,21 +400,8 @@ class dingdan:
                     #         print("bss_order_no: %s 已存在,直接业务完成!" % i)
                     #         self.complete_order(i)
                     #         return False
-            except Exception:
-                print("查找已存在的bss_order_no失败!")
-
-
-            except Exception:
-                print("订单业务信息失败!")
-
-
-
-
-
-
-
-
-
+        except Exception:
+            print("查找已存在的bss_order_no失败!")
 
 
     # 获得订单列表

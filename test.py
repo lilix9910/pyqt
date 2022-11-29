@@ -1,15 +1,37 @@
-from __future__ import print_function
-from PyQt5 import QtCore, QtGui, QtWidgets
+from selenium.webdriver.common.by import By
 
-qapp = QtWidgets.QApplication([])
-worker_thread = QtCore.QThread()
-worker_thread.start()
-worker_thread.quit()
+from WebUi import WebBrowser
+import time
 
-def fin():
-    print('isFinished:', worker_thread.isFinished())
-    print("9999")
+w = WebBrowser("Firefox")
+w.open("https://m.10010.com/scaffold-show/push/18Nsm4M1Kjd")
 
-worker_thread.finished.connect(fin)
-QtCore.QTimer.singleShot(2000, fin)
-qapp.exec_()
+time.sleep(3)
+print("Go")
+w.click_js((By.CSS_SELECTOR, "#deliverychoose"))
+time.sleep(1)
+w.click_js((By.XPATH, "//li[text()='河北']"))
+time.sleep(1)
+w.click_js((By.XPATH, "//li[text()='邯郸市']"))
+time.sleep(1)
+w.click_js((By.XPATH, "//li[text()='邱县']"))
+# w.click_js((By.CSS_SELECTOR, "#deliverychoose"))
+w.send_key((By.CSS_SELECTOR, "#address"), "详111111111详")
+w.send_key((By.CSS_SELECTOR, "#certName"), "详111111111详")
+w.send_key((By.CSS_SELECTOR, "#certNo"), "certNo")
+w.send_key((By.CSS_SELECTOR, "#mobilePhone"), "mobilePhone")
+w.click_js((By.CSS_SELECTOR, "#submitBtn"))
+
+err_keys = ['请输入正确的身份证号', '详细地址太短', '姓名必须至少包含2个汉字']
+for err_key in err_keys:
+    if w.is_page_contains(err_key):
+        print(err_key)
+
+if w.is_page_contains("成功"):
+    print("录入成功")
+
+
+# 详细地址太短
+# 姓名必须至少包含2个汉字
+# 请输入正确的身份证号
+""
